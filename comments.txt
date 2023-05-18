@@ -1,0 +1,22 @@
+ArrayList<String> Monday = new ArrayList<String>(
+                Arrays.asList("B-406: PDC","B-406: COA","B-406: AFL","B-304: DBMS","WL-101: DBMS[L]","WL-101: DBMS[L]"));
+        ArrayList<String> Tuesday = new ArrayList<String>(
+                Arrays.asList("A-LH-009: AFL","A-LH-009: OS","A-LH-009: DBMS","B-302: COA","B-302: BC[L]","B-302: BC[L]"));
+        ArrayList<String> Wednesday = new ArrayList<String>(
+                Arrays.asList("B-206: OS","A-DL-108: OS[L]","A-DL-108: OS[L]","B-304: COA","B-304: WT","B-304: PDC"));
+        ArrayList<String> Thursday = new ArrayList<String>(
+                Arrays.asList("B-406: OS","B-406: COA","B-406: DBMS","B-305: AFL","B-305: PDC","B-305: WT"));
+        ArrayList<String> Friday = new ArrayList<String>(
+                Arrays.asList("B-204: WT","A-DL-002: WT[L]","A-DL-002: WT[L]","B-303: PDC","B-303: DBMS","B-303: AFL"));
+
+//Rabi Shaw
+ArrayList<String> Monday = new ArrayList<String>(
+                Arrays.asList("9-10 AM: A-LH-004 ( CSE-30 )","11-12 PM: B-201 ( CSE-12 )","12-1 PM: A-DL-008 [L] ( CSE-12 )","1-2 PM: A-DL-008 [L] ( CSE-12 )"));
+        ArrayList<String> Wednesday = new ArrayList<String>(
+                Arrays.asList("12-1 PM: A-LH-105 ( CSE-30 )","4-5 PM: B-304 ( CSE-21 )"));
+        ArrayList<String> Thursday = new ArrayList<String>(
+                Arrays.asList("11-12 PM: B-303 ( CSE-30 )","12-1PM: B-401 ( CSE-12 )","5-6 PM: B-305 ( CSE-21 )"));
+        ArrayList<String>  Friday= new ArrayList<String>(
+                Arrays.asList("8-9 AM: B-205 ( CSE-12 )","11-12 PM: B-204 ( CSE-21 )","12-1 PM: A-DL-002 [L] ( CSE-21 )","1-2 PM: A-DL-002 [L] ( CSE-21 )"));
+        
+
